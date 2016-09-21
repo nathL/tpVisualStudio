@@ -1,0 +1,6 @@
+c:\users\aurélia\documents\visual studio 2015\Projects\TpNombresArmstrong\ConsoleTpNombresArmstrong\bin\Debug\ConsoleTpNombresArmstrong.exe.config
+c:\users\aurélia\documents\visual studio 2015\Projects\TpNombresArmstrong\ConsoleTpNombresArmstrong\bin\Debug\ConsoleTpNombresArmstrong.exe
+c:\users\aurélia\documents\visual studio 2015\Projects\TpNombresArmstrong\ConsoleTpNombresArmstrong\bin\Debug\ConsoleTpNombresArmstrong.pdb
+c:\users\aurélia\documents\visual studio 2015\Projects\TpNombresArmstrong\ConsoleTpNombresArmstrong\obj\Debug\ConsoleTpNombresArmstrong.csprojResolveAssemblyReference.cache
+c:\users\aurélia\documents\visual studio 2015\Projects\TpNombresArmstrong\ConsoleTpNombresArmstrong\obj\Debug\ConsoleTpNombresArmstrong.exe
+c:\users\aurélia\documents\visual studio 2015\Projects\TpNombresArmstrong\ConsoleTpNombresArmstrong\obj\Debug\ConsoleTpNombresArmstrong.pdb

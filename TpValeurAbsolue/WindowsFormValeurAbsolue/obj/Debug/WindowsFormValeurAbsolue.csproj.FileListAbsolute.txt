@@ -1,0 +1,9 @@
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\WindowsFormValeurAbsolue\bin\Debug\WindowsFormValeurAbsolue.exe.config
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\WindowsFormValeurAbsolue\bin\Debug\WindowsFormValeurAbsolue.exe
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\WindowsFormValeurAbsolue\bin\Debug\WindowsFormValeurAbsolue.pdb
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\WindowsFormValeurAbsolue\obj\Debug\WindowsFormValeurAbsolue.csprojResolveAssemblyReference.cache
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\WindowsFormValeurAbsolue\obj\Debug\WindowsFormValeurAbsolue.Form1.resources
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\WindowsFormValeurAbsolue\obj\Debug\WindowsFormValeurAbsolue.Properties.Resources.resources
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\WindowsFormValeurAbsolue\obj\Debug\WindowsFormValeurAbsolue.csproj.GenerateResource.Cache
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\WindowsFormValeurAbsolue\obj\Debug\WindowsFormValeurAbsolue.exe
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\WindowsFormValeurAbsolue\obj\Debug\WindowsFormValeurAbsolue.pdb

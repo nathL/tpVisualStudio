@@ -1,0 +1,9 @@
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\TpNombresArmstrong\WindowsFormsTpNombresArmstrong\bin\Debug\WindowsFormsTpNombresArmstrong.exe.config
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\TpNombresArmstrong\WindowsFormsTpNombresArmstrong\obj\Debug\WindowsFormsTpNombresArmstrong.csprojResolveAssemblyReference.cache
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\TpNombresArmstrong\WindowsFormsTpNombresArmstrong\obj\Debug\WindowsFormsTpNombresArmstrong.TxtNbrArmstrong.resources
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\TpNombresArmstrong\WindowsFormsTpNombresArmstrong\obj\Debug\WindowsFormsTpNombresArmstrong.Properties.Resources.resources
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\TpNombresArmstrong\WindowsFormsTpNombresArmstrong\obj\Debug\WindowsFormsTpNombresArmstrong.csproj.GenerateResource.Cache
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\TpNombresArmstrong\WindowsFormsTpNombresArmstrong\bin\Debug\WindowsFormsTpNombresArmstrong.exe
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\TpNombresArmstrong\WindowsFormsTpNombresArmstrong\bin\Debug\WindowsFormsTpNombresArmstrong.pdb
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\TpNombresArmstrong\WindowsFormsTpNombresArmstrong\obj\Debug\WindowsFormsTpNombresArmstrong.exe
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\TpNombresArmstrong\WindowsFormsTpNombresArmstrong\obj\Debug\WindowsFormsTpNombresArmstrong.pdb

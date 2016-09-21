@@ -1,0 +1,6 @@
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\ConsoleValeurAbsolue\bin\Debug\ConsoleValeurAbsolue.exe.config
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\ConsoleValeurAbsolue\bin\Debug\ConsoleValeurAbsolue.exe
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\ConsoleValeurAbsolue\bin\Debug\ConsoleValeurAbsolue.pdb
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\ConsoleValeurAbsolue\obj\Debug\ConsoleValeurAbsolue.csprojResolveAssemblyReference.cache
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\ConsoleValeurAbsolue\obj\Debug\ConsoleValeurAbsolue.exe
+c:\users\aurélia\documents\visual studio 2015\Projects\TpValeurAbsolue\ConsoleValeurAbsolue\obj\Debug\ConsoleValeurAbsolue.pdb
